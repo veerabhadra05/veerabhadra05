@@ -1,23 +1,31 @@
-# Hi there 👋, I'm Ulthi Veerabhadrappa
+<h1 align="center">Hi 👋, I'm Ulthi Veerabhadrappa</h1>
+<h3 align="center">Software Engineer | Python Full Stack Developer | Building Scalable Web & AI Solutions</h3>
 
-## Python Full Stack Developer | Building Scalable Web Applications & AI Solutions
-
-I am a final-year B.Tech Computer Science Engineering student passionate about software development, problem solving, and building real-world applications.
-
-I enjoy developing full-stack web applications, integrating backend APIs, working with databases, and exploring AI-powered solutions. My focus is on writing clean, maintainable code and continuously improving through hands-on projects.
-
-### Core Philosophy
-- **Learn by Building:** I believe the best way to master technology is by creating real projects.
-- **Problem Solving First:** I enjoy debugging and breaking down complex problems into simpler solutions.
-- **Continuous Growth:** Every project teaches me something new about software engineering.
+<p align="center">
+Passionate about building real-world software products using modern web technologies, backend systems, databases, and AI-powered solutions.
+</p>
 
 ---
 
-## 🚀 Technical Stack
+## 🚀 About Me
 
-### Languages & Core Skills
+I am a **2026 Computer Science Engineering graduate** passionate about software engineering, problem solving, and building impactful products.
+
+I enjoy developing end-to-end applications — from designing responsive frontend interfaces to building secure backend APIs and managing databases.
+
+My focus is on writing clean, scalable code and continuously improving through real-world projects and hands-on learning.
+
+### Core Philosophy
+- **Build to Learn** → I believe mastery comes from building real projects.
+- **Problem Solving First** → Every bug is an opportunity to improve engineering skills.
+- **Continuous Growth** → Technology evolves fast, so learning never stops.
+
+---
+
+## 🛠 Technical Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -31,12 +39,12 @@ I enjoy developing full-stack web applications, integrating backend APIs, workin
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### Database
+### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### AI / ML Tools
+### AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -55,30 +63,31 @@ I enjoy developing full-stack web applications, integrating backend APIs, workin
 
 ### 🛒 VeeMart — Full Stack E-Commerce Platform
 - Built using React, Flask, MongoDB
-- Secure authentication with password hashing
 - Razorpay payment integration
-- Cart, address, admin dashboard, order management
+- Authentication, Cart, Orders, Admin Dashboard
+- Deployed using Vercel + Render
 
 ### 🤖 AI Authenticity Detector
 - Detects AI-generated content
 - Built using Machine Learning techniques
-- Focused on authenticity verification
+- Focused on content authenticity verification
 
-### 📋 Credits Management System
-- Web application to manage academic credits
-- Simplifies student progress tracking
+### 📊 Credits Management System
+- Web app for academic credit tracking
+- Simplifies student progress management
 
 ---
 
-## 📈 Current Goals
+## 🎯 Current Goals
+- Master backend system design
 - Improve DSA & problem solving
-- Master full-stack development
-- Learn advanced system design
-- Explore AI agents & GenAI
+- Strengthen full-stack engineering skills
+- Explore GenAI & AI Agents
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/veerabhadra05
-- LinkedIn: (Add your LinkedIn URL here)
-- Email: (Add your email)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/veerabhadrappaulthi/)
+
+📧 Email: **ulthiveera05@gmail.com**
