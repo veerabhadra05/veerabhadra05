@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ulthi Veerabhadrappa</h1>
-<h3 align="center">Software Engineer | Python Full Stack Developer | Building Scalable Web & AI Solutions</h3>
+<h1>Hi 👋, I'm Ulthi Veerabhadrappa</h1>
+<h3>Software Engineer | Python Full Stack Developer | Building Scalable Web & AI Solutions</h3>
 
-<p align="center">
+<p>
 Passionate about building real-world software products using modern web technologies, backend systems, databases, and AI-powered solutions.
 </p>
 
